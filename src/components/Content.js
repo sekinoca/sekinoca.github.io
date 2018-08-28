@@ -109,6 +109,15 @@ class Content extends React.Component {
                             >
                                 Twitter<i className={`fab fa-twitter ${classes.icon}`} />
                             </Button>
+                            <Button
+                                variant="contained"
+                                color="primary"
+                                className={classes.button}
+                                href="https://qiita.com/sekinoca"
+                                target="_blank"
+                            >
+                                Qiita
+                            </Button>
                         </Typography>
                     </div>
                     <div className={classes.section}>
