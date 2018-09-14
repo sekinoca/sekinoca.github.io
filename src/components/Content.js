@@ -97,6 +97,7 @@ class Content extends React.Component {
                                 className={classes.button}
                                 href="https://github.com/sekinoca"
                                 target="_blank"
+                                rel="noopener"
                             >
                                 GitHub<i className={`fab fa-github ${classes.icon}`} />
                             </Button>
@@ -106,6 +107,7 @@ class Content extends React.Component {
                                 className={classes.button}
                                 href="https://twitter.com/sekinoca"
                                 target="_blank"
+                                rel="noopener"
                             >
                                 Twitter<i className={`fab fa-twitter ${classes.icon}`} />
                             </Button>
@@ -115,6 +117,7 @@ class Content extends React.Component {
                                 className={classes.button}
                                 href="https://qiita.com/sekinoca"
                                 target="_blank"
+                                rel="noopener"
                             >
                                 Qiita
                             </Button>
@@ -137,6 +140,7 @@ class Content extends React.Component {
                                 className="twitter-mention-button"
                                 href="https://twitter.com/intent/tweet?screen_name=sekinoca&ref_src=twsrc%5Etfw"
                                 target="_blank"
+                                rel="noopener"
                             >
                                 To my twitter
                             </Button>
